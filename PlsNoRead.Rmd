@@ -1,0 +1,28 @@
+---
+title: "PlsNoRead"
+author: "John Dou"
+date: "September 11, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Why
+
+I told you pls no read
+
+```{r cars}
+summary(cars)
+```
+
+## math
+
+addition of 1 and 1
+
+```{r pressure, echo=FALSE}
+1+1
+```
+
+test
