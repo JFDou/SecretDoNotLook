@@ -21,7 +21,7 @@ summary(cars)
 
 addition of 1 and 1
 
-```{r pressure, echo=FALSE}
+```{r}
 1+1
 ```
 
